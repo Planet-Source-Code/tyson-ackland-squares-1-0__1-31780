@@ -1,0 +1,10 @@
+MainModule = 169, 130, 694, 570, Z
+frmMain = 198, 198, 723, 638, , 14, 175, 716, 615, C
+frmSplash = 176, 176, 701, 616, , 110, 110, 635, 550, C
+frmAbout = 154, 154, 679, 594, , 132, 132, 657, 572, C
+VBRemoveMenuModule = 22, 22, 526, 470, 
+CumulativeScoreIOModule = 198, 198, 702, 646, I
+frmOptions = 176, 176, 680, 624, , 154, 154, 658, 602, C
+InternetModule = 110, 110, 681, 558, 
+VsPCModule = 22, 22, 554, 470, 
+frmInput = 220, 220, 685, 668, , 22, 22, 487, 470, C
