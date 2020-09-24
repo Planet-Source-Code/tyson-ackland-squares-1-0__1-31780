@@ -1,0 +1,185 @@
+[Root]
+Most Recent Package=Squares Setup Package
+
+
+[Package|Squares Setup Package|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\tyson\My Documents\My Programming\Squares\Package
+
+[Package|Squares Setup Package|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Squares Setup Package|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Squares Setup Package|Files Found]
+
+[Package|Squares Setup Package|Files Released]
+square.wav=
+splash.wav=
+snore.wav=
+scratch.wav=
+loser.wav=
+disconnect.wav=
+winner.wav=
+abort.wav=
+
+[Package|Squares Setup Package|Missing Dependency Information]
+C:\Program Files\Datastream\Datastream Advance\MSCOMCTL.OCX=
+
+[Package|Squares Setup Package|Out-of-Date Dependency Information]
+C:\WINNT\SYSTEM32\MSWINSCK.OCX=
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=
+C:\WINNT\SYSTEM32\comdlg32.ocx=
+
+[Package|Squares Setup Package|Files Added]
+H:\VB\Squares\winner.wav=
+H:\VB\Squares\cackle.wav=
+H:\VB\Squares\loser.wav=
+H:\VB\Squares\scratch.wav=
+H:\VB\Squares\scream.wav=
+H:\VB\Squares\snore.wav=
+H:\VB\Squares\splash.wav=
+H:\VB\Squares\square.wav=
+H:\VB\Squares\abort.wav=
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\winner.wav=
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\cackle.wav=
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\disconnect.wav=
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\loser.wav=
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\scratch.wav=
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\scream.wav=
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\snore.wav=
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\splash.wav=
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\square.wav=
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\abort.wav=
+
+[Package|Squares Setup Package|Files Removed]
+
+[Package|Squares Setup Package|Files In Project]
+C:\WINNT\SYSTEM32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\SYSTEM32\comdlg32.ocx=Yes
+C:\WINNT\SYSTEM32\MSWINSCK.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\Squares.exe=Yes
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\SQUARES.HLP=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\winner.wav=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\cackle.wav=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\disconnect.wav=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\loser.wav=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\scratch.wav=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\scream.wav=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\snore.wav=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\splash.wav=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\square.wav=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\abort.wav=Yes
+
+[Package|Squares Setup Package|Configure Registry Files]
+Applicable=No
+
+[Package|Squares Setup Package|Configure Remote Servers]
+Applicable=No
+
+[Package|Squares Setup Package|Install Locations]
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\Squares.exe=$(AppPath)
+C:\WINNT\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSWINSCK.OCX=$(WinSysPath)
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\SQUARES.HLP=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\abort.wav=$(AppPath)
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\winner.wav=$(AppPath)
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\disconnect.wav=$(AppPath)
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\loser.wav=$(AppPath)
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\scratch.wav=$(AppPath)
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\snore.wav=$(AppPath)
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\splash.wav=$(AppPath)
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\square.wav=$(AppPath)
+H:\VB\Squares\Squares.exe=$(AppPath)
+C:\Program Files\Datastream\Datastream Advance\MSCOMCTL.OCX=$(WinSysPath)
+H:\VB\Squares\SQUARES.HLP=$(AppPath)
+H:\VB\Squares\winner.wav=$(AppPath)
+H:\VB\Squares\cackle.wav=$(AppPath)
+H:\VB\Squares\loser.wav=$(AppPath)
+H:\VB\Squares\scratch.wav=$(AppPath)
+H:\VB\Squares\scream.wav=$(AppPath)
+H:\VB\Squares\snore.wav=$(AppPath)
+H:\VB\Squares\splash.wav=$(AppPath)
+H:\VB\Squares\square.wav=$(AppPath)
+H:\VB\Squares\abort.wav=$(AppPath)
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\cackle.wav=$(AppPath)
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\scream.wav=$(AppPath)
+
+[Package|Squares Setup Package|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\Squares.exe=No
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\SQUARES.HLP=No
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\abort.wav=No
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\winner.wav=No
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\disconnect.wav=No
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\loser.wav=No
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\scratch.wav=No
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\snore.wav=No
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\splash.wav=No
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\square.wav=No
+H:\VB\Squares\Squares.exe=No
+H:\VB\Squares\SQUARES.HLP=No
+H:\VB\Squares\winner.wav=No
+H:\VB\Squares\cackle.wav=No
+H:\VB\Squares\loser.wav=No
+H:\VB\Squares\scratch.wav=No
+H:\VB\Squares\scream.wav=No
+H:\VB\Squares\snore.wav=No
+H:\VB\Squares\splash.wav=No
+H:\VB\Squares\square.wav=No
+H:\VB\Squares\abort.wav=No
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\cackle.wav=No
+C:\Documents and Settings\tyson\My Documents\My Programming\Squares\scream.wav=No
+
+[Package|Squares Setup Package|Distribution]
+Type=single
+Size=
+Title=Squares
+
+[Package|Squares Setup Package|IconGroups]
+Group0=Squares
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Squares Setup Package|Squares]
+Icon1=Squares.exe
+Title1=Squares
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=SQUARES.HLP
+Title2=Squares Help
+StartIn2=$(AppPath)
+Key2=Icon3
+
+[Package|Squares Setup Package|Package]
+PackageFolder=C:\Documents and Settings\tyson\My Documents\My Programming\Squares\Package
+ProjectFolder=C:\Documents and Settings\tyson\My Documents\My Programming\Squares
+ServerSideCab=
+File1=C:\Documents and Settings\tyson\My Documents\My Programming\Squares\Package\setup.exe
+File2=C:\Documents and Settings\tyson\My Documents\My Programming\Squares\Package\Setup.Lst
+File3=C:\Documents and Settings\tyson\My Documents\My Programming\Squares\Package\Squares.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
